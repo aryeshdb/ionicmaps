@@ -1,2 +1,2 @@
-# ionicmaps
+# ionicpro
 App Dev
